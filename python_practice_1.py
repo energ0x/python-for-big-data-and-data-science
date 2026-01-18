@@ -1,0 +1,1 @@
+print("Marysyk Roman, group-3")
