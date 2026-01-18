@@ -1,1 +1,1 @@
-print("Marysyk Roman, group-3")
+print("Roman Marysyk, group-3")
